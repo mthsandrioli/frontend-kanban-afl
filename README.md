@@ -1,9 +1,9 @@
 ## Funcionalidades
 
-- Criação e autenticação usuários.
+- Criação e autenticação de usuários.
 - Criação e gerenciamento de espaços de trabalho com colaboração de membros da equipe.
 - Criação e gerenciamento de quadros e suas respectivas tarefas.
-- Gerenciamento de tarefas em visualização de tabela e etapas do kanban.
+- Gerenciamento de tarefas em visualização de tabela ou etapas do kanban.
 - Design responsivo criado com TailwindCSS.
 
 ## Instruções para rodar o projeto
